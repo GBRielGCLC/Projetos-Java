@@ -1,0 +1,36 @@
+bala
+doce
+100
+0,09
+0,1
+5204463
+bala
+doce
+100
+0,09
+0,2
+5204463
+bala
+doce
+100
+0,09
+0,3
+5204463
+pirulito
+doce com mini canudo
+160
+0,1
+0,5
+7210604
+pirulito
+doce com mini canudo
+160
+0,2
+0,5
+7210604
+treloso
+biscoito de chocolate
+100
+0,5
+1,50
+2636794
